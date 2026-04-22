@@ -17,8 +17,42 @@
 #Access controller..
 <img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/bdba52fe-eab9-4532-98d5-44c72e2fd4e6" />
 
+<p>Presta Presta es una plataforma integral para la gestión de préstamos personales, diseñada para digitalizar el control de cuotas, clientes y estados de cuenta con una interfaz intuitiva y moderna.</p>
+
+## 🛠️ Tecnologías
+![React](https://shields.io)
+![TailwindCSS](https://shields.io)
+![Node.js](https://shields.io)
+![TypeScript](https://shields.io)
+
+
 #Started
-npm run dev
+markdown
+## 🚀 Instalación y Uso
+
+Sigue estos pasos para ejecutar el proyecto localmente:
+
+1. **Clona el repositorio**
+   ```bash
+   git clone https://github.com
+   cd presta-presta
+   ```
+
+2. **Instala las dependencias**
+   ```bash
+   npm install
+   ```
+
+3. **Configura las variables de entorno**
+   Crea un archivo `.env` en la raíz y añade tus credenciales (Base de datos, API keys, etc.):
+   ```env
+   VITE_API_URL=http://localhost:3000
+   ```
+
+4. **Inicia el servidor de desarrollo**
+   ```bash
+   npm run dev
+   ```
 
 
 
