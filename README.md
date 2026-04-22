@@ -20,40 +20,37 @@
 
 <p>Presta Presta es una plataforma integral para la gestión de préstamos personales, diseñada para digitalizar el control de cuotas, clientes y estados de cuenta con una interfaz intuitiva y moderna.</p>
 
-## 🛠️ Tecnologías
-![React](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Node.js](https://shields.io)
-![TypeScript](https://shields.io)
+## 🛠️ Tecnologías y Herramientas
+![Android Studio](https://shields.io)
+![Java](https://shields.io)
+![Gradle](https://shields.io)
+![Firebase](https://shields.io)
 
 
 #Started
-markdown
-## 🚀 Instalación y Uso
+## 🚀 Instalación y Configuración
 
-Sigue estos pasos para ejecutar el proyecto localmente:
+Sigue estos pasos para montar el entorno de desarrollo:
 
-1. **Clona el repositorio**
+1. **Clonar el proyecto**
    ```bash
    git clone https://github.com
-   cd presta-presta
    ```
 
-2. **Instala las dependencias**
-   ```bash
-   npm install
-   ```
+2. **Abrir en Android Studio**
+   - Abre **Android Studio**.
+   - Selecciona **File > Open**.
+   - Busca la carpeta del proyecto y dale a **OK**.
 
-3. **Configura las variables de entorno**
-   Crea un archivo `.env` en la raíz y añade tus credenciales (Base de datos, API keys, etc.):
-   ```env
-   VITE_API_URL=http://localhost:3000
-   ```
+3. **Sincronizar Gradle**
+   - Una vez abierto, espera a que el sistema descargue las dependencias necesarias. Si no inicia solo, haz clic en el icono del elefante (**Sync Project with Gradle Files**).
 
-4. **Inicia el servidor de desarrollo**
-   ```bash
-   npm run dev
-   ```
+4. **Configurar el SDK**
+   - Asegúrate de tener instalado el SDK de Android (versión [PON AQUÍ TU VERSIÓN, ej: API 34]) desde el **SDK Manager**.
+
+5. **Ejecutar la App**
+   - Conecta un dispositivo físico o inicia un Emulador (AVD).
+   - Presiona el botón verde de **Run** (`Shift + F10`).
 
 
 
