@@ -12,6 +12,9 @@
 #Access controller..
 <img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/bdba52fe-eab9-4532-98d5-44c72e2fd4e6" />
 
+#Started
+npm run dev
+
 
 
 
