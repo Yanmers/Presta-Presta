@@ -1,6 +1,6 @@
-#Presta Presta App
+<h1>Presta Presta App</h1>
 
-#Welcome page
+<h2>WellCome Page</h2>
 <img width="986" height="526" alt="image" src="https://github.com/user-attachments/assets/efdc3052-a51c-4cbb-9c56-3be599d2ee46" />
 
 # General Navigation and Menu
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-#Access controller..
+<h2>Access controller</h2>
 <img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/bdba52fe-eab9-4532-98d5-44c72e2fd4e6" />
 
 <p>Presta Presta es una plataforma integral para la gestión de préstamos personales, diseñada para digitalizar el control de cuotas, clientes y estados de cuenta con una interfaz intuitiva y moderna.</p>
