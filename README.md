@@ -1,7 +1,8 @@
 <h1>Presta Presta App</h1>
 
 <h2>WellCome Page</h2>
-<img width="986" height="526" alt="image" src="https://github.com/user-attachments/assets/efdc3052-a51c-4cbb-9c56-3be599d2ee46" />
+<img width="380" height="823" alt="image" src="https://github.com/user-attachments/assets/61f67d3f-9c0d-4e23-afd0-409b6c9b5d92" />
+
 
 # General Navigation and Menu
 
